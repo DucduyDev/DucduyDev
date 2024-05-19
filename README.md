@@ -6,7 +6,7 @@ A full-stack developer 🚀
 
 * 🌍  I'm based in Ho Chi Minh, Vietnam
 * ✉️  You can contact me at [nguyenhoangducduy1610@gmail.com](mailto:nguyenhoangducduy1610@gmail.com)
-* 🧠  I'm learning Node.js and .NET and related back-end things to become a professional full-stack developer
+* 🧠  I'm learning back-end things to become a professional full-stack developer.
 
 ### Skills
 
